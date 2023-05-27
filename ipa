@@ -1,0 +1,42 @@
+{
+	"name": "By GOD Creative",
+	"apps": [
+
+{"name": "GOD ESP",
+"bundleIdentifier": "vn.vng.pubgmobile",
+"developerName": "Creative",
+"version": "2.6.2",
+"versionDate": "2023-05-26T22:58:00+07:00",
+"size": 2400000000,
+"downloadURL": "https://dl.dropbox.com/s/fa7xczudkfy6730/GOD%20ESP_2.6.2.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/VngGodCreative/icon/main/icon%20Full.png",
+"versionDescription": "Update phiên bản 2.6.2 - Vùng đất khủng long \nCập nhật antiban \nSupport for ios 16.5"},
+
+{"name": "GOD OFFSET",
+"bundleIdentifier": "vn.vng.pubgmobile",
+"developerName": "Creative",
+"version": "2.6.2",
+"versionDate": "2023-05-26T22:58:00+07:00",
+"size": 2400000000,
+"downloadURL": "https://dl.dropbox.com/s/exfhrjrly9kvxgv/GOD%20OFFSET_2.6.2.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/VngGodCreative/icon/main/icon%20Full.png",
+"versionDescription": "Update mod offset cho ae thích leo rank an toàn \nUpdate antiban và mod thêm chức năng: người trắng, tâm +, giảm giật 50% \nSupport for ios 16.5"},
+
+{"name": "GOD Youtube",
+"version": "18.15.1",
+"versionDate": "2023-05-20T12:00:00+07:00",
+"size": 167000000,
+"downloadURL": "https://dl.dropbox.com/s/mhi7fytz52jsrgc/DiuTube_18.15.1.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Cercube.png",
+"versionDescription": "Xoá Youtube Gốc Trước Khi Cài 
+\nChặn quảng cáo, Xem & Tải video, hỗ trợ PiP \nSửa lỗi không tải được app trên esign \nSupport for ios16.5"},
+
+{"name": "GOD Spotify",
+"version": "8.6.22",
+"versionDate": "2023-05-21T15:10:00+07:00",
+"size": 197000000,
+"downloadURL": "https://dl.dropbox.com/s/fbvqu00gviydvjo/Spotify%20VIP%208.6.22.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Spotify.png",
+"versionDescription": "Xoá Spotify Gốc Trước Khi Cài \nChặn quảng cáo, không bị quảng cáo ngắt quãng, mở khóa Premium \nSupport for ios16.5"},
+
+]}
